@@ -8,7 +8,7 @@
         ASP.NET
     </h2>
     <p>
-        Para obtener más información acerca de ASP.NET, visite <a href="http://www.asp.net" title="Sitio web de ASP.NET">www.asp.net</a>.
+        Para obtener más de que información acerca de ASP.NET, visite <a href="http://www.asp.net" title="Sitio web de ASP.NET">www.asp.net</a>.
     </p>
     <p>
         También puede encontrar <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
